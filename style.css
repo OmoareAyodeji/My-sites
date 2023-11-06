@@ -1,0 +1,27 @@
+.hero{
+    background-image: url(./pexels-photo-2846814.webp);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 30em;
+}
+.aa{
+    height: 20em;
+}
+
+.ab{
+    height: 20em;
+    background-image: url(./pexels-photo-3747395-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: center;
+    background-position-y: 70%;
+}
+
+.bb{
+    height: 10em;
+}
+
+.middle{
+    height: 30em;
+}
